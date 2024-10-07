@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_FundTransfer_ValidTransaction</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e86d3cc-801a-4889-a7c2-b8db21f54f83</testCaseGuid>
+</TestCaseEntity>
